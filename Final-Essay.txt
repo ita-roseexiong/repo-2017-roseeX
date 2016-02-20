@@ -1,1 +1,3 @@
 He is Sam, he likes ham. 
+
+He says he donesn't like ham anymore.
